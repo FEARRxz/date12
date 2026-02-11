@@ -9,7 +9,7 @@ from aiogram.types import KeyboardButton, Message, ReplyKeyboardMarkup
 from aiogram.client.default import DefaultBotProperties
 
 # Токен: берём из ENV (Railway) или из строки ниже
-BOT_TOKEN = os.getenv("BOT_TOKEN") or "PUT_NEW_TOKEN_HERE"
+BOT_TOKEN = os.getenv("BOT_TOKEN") or "8251143975:AAEtyv3NAL0tf47ZjAGTgBjeZPynOruW4tg"
 
 START_TEXT = (
     "Годовщина 🌸\n\n"
